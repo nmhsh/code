@@ -1,1 +1,2 @@
 alert(4)
+toast(3)
