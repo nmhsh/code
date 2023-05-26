@@ -1,1 +1,0 @@
-x2.png,x1.png,x.png,vs.png,vao.png,sukien.png,start1.png,start.png,ss.png,setting.png,sanh.png,rubi1.png,rubi.png,rank.png,ok.png,lv8.png,loi1.png,loi.png,logout1.png,logout.png,kycuu.png,khong.png,garena.png,exp.png,exitco1.png,exitco.png,exit.png,danh.png,colq.png,co.png,clear.png,checkStart.png,backtemp.png,back1.png,back.png,avata1.png,avata.png,5vs5.png,1vs1.png
